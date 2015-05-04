@@ -1,0 +1,2 @@
+# GETRICH
+COMP2910 GroupProject
